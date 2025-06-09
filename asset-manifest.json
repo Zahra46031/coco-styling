@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/coco-styling/static/css/main.21ae36c4.chunk.css",
-    "main.js": "/coco-styling/static/js/main.d1abfb49.chunk.js",
-    "main.js.map": "/coco-styling/static/js/main.d1abfb49.chunk.js.map",
+    "main.js": "/coco-styling/static/js/main.dd750f26.chunk.js",
+    "main.js.map": "/coco-styling/static/js/main.dd750f26.chunk.js.map",
     "runtime~main.js": "/coco-styling/static/js/runtime~main.20da769d.js",
     "runtime~main.js.map": "/coco-styling/static/js/runtime~main.20da769d.js.map",
     "static/js/2.bbcc9a58.chunk.js": "/coco-styling/static/js/2.bbcc9a58.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cf2aeaea.chunk.js": "/coco-styling/static/js/3.cf2aeaea.chunk.js",
     "static/js/3.cf2aeaea.chunk.js.map": "/coco-styling/static/js/3.cf2aeaea.chunk.js.map",
     "index.html": "/coco-styling/index.html",
-    "precache-manifest.4bcc56b7c0b30005b1c3f897fcf31bc5.js": "/coco-styling/precache-manifest.4bcc56b7c0b30005b1c3f897fcf31bc5.js",
+    "precache-manifest.bd8e4c40ccd40d485b513a37a4a73076.js": "/coco-styling/precache-manifest.bd8e4c40ccd40d485b513a37a4a73076.js",
     "service-worker.js": "/coco-styling/service-worker.js",
     "static/css/main.21ae36c4.chunk.css.map": "/coco-styling/static/css/main.21ae36c4.chunk.css.map",
     "static/media/logo.svg": "/coco-styling/static/media/logo.06e73328.svg"
