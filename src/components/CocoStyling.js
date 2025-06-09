@@ -121,8 +121,7 @@ export default function CocoStyling() {
     setForm({ fullName: "", email: "", date: "", time: "" });
   };
   const handlePortfolioClick = () => {
-    alert("Thanks for reaching out! We’ll contact you soon.");
-    // You could replace this with a modal, form, or redirect
+    alert("New looks coming soon! Stay Tuned!");
   };
 
   return (
